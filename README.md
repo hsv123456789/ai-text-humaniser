@@ -34,7 +34,7 @@ Download the latest release for your platform from the [Releases](https://github
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/ai-text-humanizer.git
+   git clone https://github.com/hsv123456789/ai-text-humanizer.git
    cd ai-text-humanizer
    ```
 
@@ -103,4 +103,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 📞 Contact
 
-Project Link: [https://github.com/yourusername/ai-text-humanizer](https://github.com/yourusername/ai-text-humanizer)
+Project Link: [https://github.com/hsv123456789/ai-text-humanizer](https://github.com/yourusername/ai-text-humanizer)
